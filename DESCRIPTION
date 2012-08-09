@@ -1,6 +1,6 @@
 Package: bvenn
 Type: Package
-Title: A Simple alternative to proportional Venn diagrams
+Title: A simple alternative to proportional Venn diagrams
 Version: 0.1
 Date: 2012-08-08
 Author: Raivo Kolde <rkolde@gmail.com>
