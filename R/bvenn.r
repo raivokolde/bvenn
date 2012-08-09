@@ -69,7 +69,7 @@ vplayout = function(x, y){
 }
 
  
-#' Simple alternative to Venn diagrams
+#' Simple alternative to Venn diagrams 
 #' 
 #' A simple alternative to the traditional Venn diagram. It depicts each overlap as a 
 #' separate bubble with area proportional to the overlap size.
