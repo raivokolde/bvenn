@@ -1,4 +1,4 @@
-#' A Simple alternative to proportional Venn diagrams
+#' A simple alternative to proportional Venn diagrams
 #'
 #' A Venn diagram is a useful tool to visualise the overlap between sets of elements. 
 #' However, often the proportions of the overlaps are not accurately depicted by the 
